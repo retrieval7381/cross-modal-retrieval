@@ -1,0 +1,2 @@
+log.txt filter=lfs diff=lfs merge=lfs -text
+pytorch_model.best filter=lfs diff=lfs merge=lfs -text
